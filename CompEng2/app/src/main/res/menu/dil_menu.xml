@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--<item
+        android:id="@+id/ara"
+        android:icon="@drawable/ikonara"
+        android:orderInCategory="300"
+        android:title="Ara"
+        app:showAsAction="always" />-->
+    <item
+        android:id="@+id/dilturkce"
+        android:icon="@drawable/ikonturkce"
+        android:orderInCategory="300"
+        android:title="Türkçe"
+        app:showAsAction="withText">
+
+    </item>
+
+    <item
+        android:id="@+id/dilingilizce"
+
+        android:orderInCategory="300"
+        android:title="English"
+        android:icon="@drawable/ikoningilizce"
+        app:showAsAction="withText" />
+
+
+</menu>

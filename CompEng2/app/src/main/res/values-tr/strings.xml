@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CompEng</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- Aday Öğrenci Menüsü-->
+    <string name="adayogr1">Bölüm Tanıtımı</string>
+    <string name="adayogr2">Bölümün Tarihçesi</string>
+    <string name="adayogr3">Uluslararası Aday Öğrenci</string>
+    <string name="adayogr4">Öğrenci Toplulukları</string>
+    <string name="adayogr5">Sosyal Etkinlikler</string>
+    <string name="adayogr6">Faydalı Linkler</string>
+    <string name="adayogr">ADAY ÖĞRENCİ</string>
+
+    <string-array name="adayogr1">
+        <item>Tanıtım Katoloğu</item>
+        <item>Tanıtım Videosu</item>
+    </string-array>
+    <string-array name="adayogr2">
+        <item>Bölüm Tarihçesi</item>
+        <item>Bölüm Personeli Tarihçesi</item>
+    </string-array>
+    <string-array name="adayogr3">
+        <item>Lisans Öğrenci Rehberi</item>
+        <item>Lisansüstü Öğrenci Rehberi</item>
+    </string-array>
+    <string-array name="adayogr4">
+        <item>Computer Society</item>
+        <item>YAZGİT</item>
+        <item>AUCC</item>
+    </string-array>
+    <string-array name="empty"></string-array>
+
+    <!-- Lisans Menüsü-->
+    <string name="lisans1">Genel Bilgi</string>
+    <string name="lisans2">Müfredat</string>
+    <string name="lisans3">Ders İçerikleri</string>
+    <string name="lisans4">Ders Sayfaları</string>
+    <string name="lisans5">Staj</string>
+    <string name="lisans">LİSANS</string>
+    <string-array name="lisans1">
+        <item>Faydalı Linkler</item>
+        <item>Bitirme Projesi ile İlgili Belgeler</item>
+    </string-array>
+    <string-array name="lisans2_3">
+        <item>Türkçe</item>
+        <item>İngilizce</item>
+        <item>İngilizce(%30)</item>
+        <item>İngilizce(2009-2017)</item>
+        <item>Türkçe(2003–2009)</item>
+        <item>Mühendislik Tamamlama</item>
+        <item>Çift Anadal</item>
+    </string-array>
+    <string-array name="lisans4">
+        <item>1.Sınıf</item>
+        <item>2.Sınıf</item>
+        <item>3.Sınıf</item>
+        <item>4.Sınıf</item>
+    </string-array>
+    <string-array name="lisans5">
+        <item>Staj ile İlgili Bilgiler</item>
+        <item>Staj Öncesi</item>
+        <item>Staj Boyunca ve Sonunda</item>
+    </string-array>
+
+    <!-- Lisansüstü Menüsü-->
+    <string name="lisansustu1">Genel Bilgi</string>
+    <string name="lisansustu2">Tezli Yüksek Lisans</string>
+    <string name="lisansustu3">Doktora</string>
+    <string name="lisansüstü">LİSANSÜSTÜ</string>
+    <string-array name="lisansustu1">
+        <item>Faydalı Linkler</item>
+        <item>Lisansüstü ile İlgili Belgeler</item>
+    </string-array>
+    <string-array name="lisansustu2">
+        <item>Müfredat</item>
+        <item>Ders İçerikleri</item>
+        <item>Ders Sayfaları</item>
+        <item>Tamamlanmış Tezler</item>
+    </string-array>
+    <string-array name="lisansustu3">
+        <item>Müfredat</item>
+        <item>Ders İçerikleri</item>
+        <item>Ders Sayfaları</item>
+        <item>Doktora Yeterlilik Sınavı Esasları</item>
+        <item>Tamamlanmış Tezler</item>
+    </string-array>
+
+    <!-- Araştırma Menüsü-->
+    <string name="arastirma1">Laboratuvarlar</string>
+    <string name="arastirma2">Projeler</string>
+    <string name="arastirma3">Yayınlar</string>
+    <string name="arastirma4">Patentler</string>
+    <string name="arastirma5">İşbirlikleri</string>
+    <string name="araştırma">ARAŞTIRMA</string>
+    <!-- Personel Menüsü-->
+    <string name="personel1">Bölüm Başkanlığı</string>
+    <string name="personel2">Akademik Personel</string>
+    <string name="personel3">İdari Personel</string>
+    <string name="personel4">Komisyonlar</string>
+    <string name="personel5">Emekli Öğretim Üyeleri</string>
+    <string name="personel">PERSONEL</string>
+    <!-- Değişim Programları Menüsü-->
+    <string name="degisim1">ERASMUS</string>
+    <string name="degisim2">MEVLANA</string>
+    <string name="degisim3">FARABİ</string>
+    <string name="değişimprog">DEĞİŞİM PROGRAMLARI</string>
+    <!-- Akreditasyon Menüsü-->
+    <string name="akreditasyon1">MÜDEK</string>
+    <string name="akreditasyon2">BOLOGNA</string>
+    <string name="akreditasyon">AKREDİTASYON</string>
+    <!-- Hakkımızda Menüsü-->
+    <string name="hakkimizda1">Bölüm Hakkında</string>
+    <string name="hakkimizda2">Özgörü ve Özgörev</string>
+    <string name="hakkimizda3">Başarılarımız</string>
+    <string name="hakkimizda4">Bölüm Krokisi</string>
+    <string name="hakkimizda5">İletişim</string>
+    <string name="hakkımızda">HAKKIMIZDA</string>
+    <!--Ders Programı-->
+    <string name="dersprogramı1">"Lisans"</string>
+    <string name="dersprogramı2">"Lisansüstü"</string>
+    <string name="dersprog">DERS PROGRAMI</string>
+    <!--Sınav Programı-->
+    <string name="sınavprogramı1">"Lisans Final Programı"</string>
+    <string name="sınavprogramı2">"Lisansüstü Final Programı"</string>
+    <string name="sınavprogramı3">"Bütünleme Programı"</string>
+    <string name="sınavprog">SINAV PROGRAMI</string>
+
+    <string name="akademiktakvim">AKADEMİK TAKVİM</string>
+    <string name="duyurular">DUYURULAR</string>
+    <string name="seçkiler">SEÇKİLER</string>
+    <string name="etkinlikler">ETKİNLİKLER</string>
+    <string name="muhendislik">MÜHENDİSLİK FAKÜLTESİ</string>
+    <string name="obs">OBS</string>
+    <string name="telgraf">İLETİŞİM SİSTEMİ</string>
+    <string name="anasayfa">ANASAYFA</string>
+    <string name="iletişim">İLETİŞİM</string>
+    <string name="sosyalmedya">SOSYAL MEDYA</string>
+
+    <string name="yükleniyor">Yükleniyor...</string>
+    <!--URL-->
+    <string-array name="bölümtanıtımı_url">
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/08/Brosur_BMB_TR_2020_Bahar.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/10/bolum-tanitim-tr.mp4"</item>
+    </string-array>
+
+    <string-array name="bölümüntarihçesi_url">
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/08/bolumtarihipdf.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/09/Bolum-Personel-Tarihcesi-17.09.2020.pdf"</item>
+    </string-array>
+
+    <string-array name="uluslararasıadayöğr_url">
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/08/YabanciOgrenci-TR.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/09/Lisansustu-Ogrenci-Rehberi.pdf"</item>
+    </string-array>
+
+    <string name="öğrtoplulukları_url">"http://comp.eng.ankara.edu.tr/#tab-c9f55c99841446e4b04"</string>
+
+    <string name="sosyaletkinlikler_url">"http://comp.eng.ankara.edu.tr/#tab-430c745f03d04cd5087"</string>
+    <string name="faydalılinkler_url">"http://comp.eng.ankara.edu.tr/#tab-b4954bcd589262c91d1"</string>
+
+    <string-array name="lisansgenelbilgi_url">
+        <item>"http://comp.eng.ankara.edu.tr/#tab-6c32b80da43bf9585e3"</item>
+        <item>"http://comp.eng.ankara.edu.tr/#tab-6c32b80da43bf9585e3"</item>
+    </string-array>
+
+    <string-array name="lisansmüfredat_url">
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/09/20-21-BilgisayarMuh_Turkce_Mufredat.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/09/20-21-BilgisayarMuh_IngilizceMufredat.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/07/Mufredat_Ingilizce30.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/07/Mufredat_Ingilizce2009-2017.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/07/Mufredat_Turkce2003-2009.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/07/Mufredat_MuhendislikTamamlama.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/07/Mufredat_CiftAnadal.pdf"</item>
+    </string-array>
+
+    <string-array name="lisansdersiçerikleri_url">
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/08/DersIcerikleri_Turkce.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/08/DersIcerikleri_Ingilizce.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/08/DersIcerikleri_Ingilizce30.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/08/DersIcerikleri_Ingilizce2009-2017.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/08/DersIcerikleri_Turkce2003-2009.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/08/DersIcerikleri_MuhendislikTamamlama.pdf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/wp-content/uploads/sites/218/2020/08/DersIcerikleri_CiftAnadal.pdf"</item>
+    </string-array>
+
+    <string-array name="lisansderssayfaları_url">
+        <item>"http://comp.eng.ankara.edu.tr/#tab-f4e1c12b5600ec04b7b"</item>
+        <item>"http://comp.eng.ankara.edu.tr/#tab-f4e1c12b5600ec04b7b"</item>
+        <item>"http://comp.eng.ankara.edu.tr/#tab-f4e1c12b5600ec04b7b"</item>
+        <item>"http://comp.eng.ankara.edu.tr/#tab-f4e1c12b5600ec04b7b"</item>
+
+    </string-array>
+
+    <string-array name="lisansstaj_url">
+        <item>"http://comp.eng.ankara.edu.tr/#tab-1878bd7488923ba77b6"</item>
+        <item>"http://comp.eng.ankara.edu.tr/#tab-1878bd7488923ba77b6"</item>
+        <item>"http://comp.eng.ankara.edu.tr/#tab-1878bd7488923ba77b6"</item>
+    </string-array>
+    <string-array name="lisansüstügenelbilgi_url">
+        <item>"http://comp.eng.ankara.edu.tr/#tab-a5ebfa7bfa29fc266bf"</item>
+        <item>"http://comp.eng.ankara.edu.tr/#tab-6c32b80da43bf9585e3"</item>
+    </string-array>
+
+    <string-array name="tezliyükseklisans_url">
+        <item>"http://comp.eng.ankara.edu.tr/#tab-6093658bd570fb5999f"</item>
+        <item>"http://comp.eng.ankara.edu.tr/#tab-6093658bd570fb5999f"</item>
+        <item>"http://comp.eng.ankara.edu.tr/#tab-6093658bd570fb5999f"</item>
+        <item>"http://comp.eng.ankara.edu.tr/#tab-6093658bd570fb5999f"</item>
+    </string-array>
+    <string-array name="doktora_url">
+        <item>"http://comp.eng.ankara.edu.tr/#tab-4101870e7b210be8a18"</item>
+        <item>"http://comp.eng.ankara.edu.tr/#tab-4101870e7b210be8a18"</item>
+        <item>"http://comp.eng.ankara.edu.tr/#tab-4101870e7b210be8a18"</item>
+        <item>"http://comp.eng.ankara.edu.tr/#tab-4101870e7b210be8a18"</item>
+        <item>"http://comp.eng.ankara.edu.tr/#tab-4101870e7b210be8a18"</item>
+    </string-array>
+
+    <string name="laboratuvarlar_url">"http://comp.eng.ankara.edu.tr/#tab-888e2e656e907d640d8"</string>
+    <string name="projeler_url">"http://comp.eng.ankara.edu.tr/#tab-60bfd4dfb923e4939dc"</string>
+    <string name="yayınlar_url">"http://comp.eng.ankara.edu.tr/#tab-9b99d11ee7469dcafb5"</string>
+    <string name="patenler_url">"http://comp.eng.ankara.edu.tr/#tab-28d507a47011fdb04ed"</string>
+    <string name="işbirlikleri_url">"http://comp.eng.ankara.edu.tr/#tab-80af6123b260fe034c9"</string>
+
+
+    <string name="bölümbaşk_url">"http://comp.eng.ankara.edu.tr/#tab-e635b07eaf3810204ae"</string>
+    <string name="akademikpers_url"> "http://comp.eng.ankara.edu.tr/#tab-6c9fd728c2c7fc9b4a7"</string>
+    <string name="idaripers_url">"http://comp.eng.ankara.edu.tr/#tab-8ca0f82fe1df52afbb7"</string>
+    <string name="komisyonlar_url">"http://comp.eng.ankara.edu.tr/#tab-62e00f100d9844093b9"</string>
+    <string name="emekliöğr_url">"http://comp.eng.ankara.edu.tr/#tab-ddaa9e7bdcd10d913d0"</string>
+
+
+    <string name="erasmus_url">"http://comp.eng.ankara.edu.tr/#tab-c173682bb4c244a410c"</string>
+    <string name="mevlana_url">"http://comp.eng.ankara.edu.tr/#tab-cd92bab005956c105e8"</string>
+    <string name="farabi_url">"http://comp.eng.ankara.edu.tr/#tab-c0a1a4d23be68580386"</string>
+
+
+    <string name="müdek_url">"http://comp.eng.ankara.edu.tr/#tab-1e394ed36159b441720"</string>
+    <string name="bologna_url">"http://comp.eng.ankara.edu.tr/#tab-fbb55d4b3844070d0ac"</string>
+
+
+    <string name="bölümhakkında_url">"http://comp.eng.ankara.edu.tr/#tab-f814e9fbf81721b75f0"</string>
+    <string name="özgörüözgörev_url">"http://comp.eng.ankara.edu.tr/#tab-b8ccfb41f0f2140b338"</string>
+    <string name="başarılarımız_url">"http://comp.eng.ankara.edu.tr/#tab-60619c0c12be6c4a09d"</string>
+    <string name="bölümkrokisi_url">"https://www.google.com/maps/place/Ankara+%C3%9Cniversitesi+Bilgisayar+M%C3%BChendisli%C4%9Fi+B%C3%B6l%C3%BCm%C3%BC/@39.7814986,32.8221899,15z/data=!4m5!3m4!1s0x0:0x47bfec2be9776ed5!8m2!3d39.7818614!4d32.8199154"</string>
+    <string name="iletişim_url">"http://comp.eng.ankara.edu.tr/#iletisim"</string>
+
+    <string name="linkedin_url">"https://www.linkedin.com/school/ankara-university/"</string>
+    <string name="facebook_url">"https://www.facebook.com/AnkaraUniversitesi"</string>
+    <string name="twitter_url">"https://twitter.com/AnkaraUni"</string>
+    <string name="instagram_url">"https://www.instagram.com/ankara.uni/"</string>
+
+
+    <string name="akademiktakvim_url">"http://oidb.ankara.edu.tr/wp-content/uploads/sites/91/2020/07/Akademik-Takvim-Tasla%C4%9F%C4%B1-14-Hafta-Tatiller-Dahil-Son.pdf"</string>
+    <string name="dersprogramı_url">"https://www.instagram.com/ankara.uni/"</string>
+    <string name="sınavtakvimi_url">"https://www.instagram.com/ankara.uni/"</string>
+
+    <string name="duyurular_url">"http://comp.eng.ankara.edu.tr/category/duyuru/"</string>
+    <string name="seçkiler_url">"http://comp.eng.ankara.edu.tr/category/secki/"</string>
+    <string name="etkinlikler_url">"http://comp.eng.ankara.edu.tr/category/etkinlikler/"</string>
+    <string name="muhendislik_url">"http://www.eng.ankara.edu.tr/"</string>
+    <string name="obs_url">"https://obs.ankara.edu.tr/"</string>
+    <string name="telgraf_url">"https://telgraf.ankara.edu.tr/"</string>
+
+    <string name="lisansdersprog_url">"https://docs.google.com/spreadsheets/d/1vlCTA9IVZawOcIFFwLHEi9wPTaIbP7-y/edit#gid=1145781661"</string>
+    <string name="lisansüstüdersprog_url">"https://docs.google.com/spreadsheets/d/1M1p6wx1yLyalM9tHSui0Hd06XRiijjIw/edit#gid=1145781661"</string>
+
+    <string name="lisanssınavprog_url">"https://docs.google.com/document/d/1oTGXsN0ULiAMZPFwMqZGmRvfz2wRqQJeH1dsnXsQRxo/edit"</string>
+    <string name="lisansüstüsınavprog_url">"https://docs.google.com/document/d/1Z9BoHVgQncTSw44oScYiXr96GKJfY9UHAycqaZNJr28/edit"</string>
+    <string name="bütünlemeprog_url">"https://docs.google.com/document/d/1X9XNcc_mqtGntiLfOVh0dnZYiXUkQPyAEbjMD6OvtFI/edit"</string>
+</resources>

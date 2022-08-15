@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/anasayfa"
+            android:title="@string/anasayfa"
+            android:icon="@drawable/ikonanasayfa"
+            />
+        <item
+            android:id="@+id/adayogrenci"
+            android:title="@string/adayogr"
+            android:icon="@drawable/ikonadayogrenci"
+            />
+        <item
+            android:id="@+id/lisans"
+            android:title="@string/lisans"
+            android:icon="@drawable/ikonlisans" />
+        <item
+            android:id="@+id/lisansustu"
+            android:title="@string/lisansüstü"
+            android:icon="@drawable/ikonlisansustu"/>
+        <item
+            android:id="@+id/arastirma"
+            android:title="@string/araştırma"
+            android:icon="@drawable/ikonarastirma"/>
+        <item
+            android:id="@+id/personel"
+            android:title="@string/personel"
+            android:icon="@drawable/ikonpersonel"/>
+        <item
+            android:id="@+id/degisimprogramlari"
+            android:title="@string/değişimprog"
+            android:icon="@drawable/ikondegisimprogrami"/>
+        <item
+            android:id="@+id/akreditasyon"
+            android:title="@string/akreditasyon"
+            android:icon="@drawable/ikonakreditasyon"/>
+        <item
+            android:id="@+id/hakkimizda"
+            android:title="@string/hakkımızda"
+            android:icon="@drawable/ikonhakkimizda"/>
+        <item
+            android:id="@+id/iletisim"
+            android:title="@string/iletişim"
+            android:icon="@drawable/ikoniletisim"/>
+
+
+    </group>
+
+    <item android:title="@string/sosyalmedya">
+    <menu>
+        <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/linkedin"
+            android:title="Linkedin"
+            android:icon="@drawable/ikonlinkedin" />
+        <item
+            android:id="@+id/facebook"
+            android:title="Facebook"
+            android:icon="@drawable/ikonfacebook"/>
+        <item
+            android:id="@+id/twitter"
+            android:title="Twitter"
+            android:icon="@drawable/ikontwitter"/>
+        <item
+            android:id="@+id/instagram"
+            android:title="Instagram"
+            android:icon="@drawable/ikoninstagram"/>
+         </group>
+    </menu>
+    </item>
+
+
+</menu>
+
+
+
+
